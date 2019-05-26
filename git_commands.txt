@@ -1,0 +1,20 @@
+git common commands
+
+git init to initialize
+
+git status to check the status of files
+
+git add [filename] to add the file
+
+git add -A to add all the files
+
+git config --global user.email 'email' to add email of the github
+
+git config --global user.name 'name' to add the github name
+
+git commit to commit the files
+
+
+git remote add origin url  to add the remote repository
+
+git push - u origin master  push the code using user 
